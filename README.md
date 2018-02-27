@@ -25,6 +25,6 @@
 
 <h2>NPM</h2>
 <ul>
-  <li><a href="https://www.npmjs.com/package/radium">Power Inline CSS</a></li>
+  <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
 </ul>
 
