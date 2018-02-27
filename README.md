@@ -10,6 +10,7 @@
   <li><a href="https://daveceddia.com/create-react-app-express-backend/">create-react-app with Express Backend</a></li>
   <li><a href="https://reacttraining.com/react-router/web/guides/philosophy">React Router</a></li>
   <li><a href="https://github.com/grab/front-end-guide">Grab's Front-end Guide</a></li>
+  <li><a href="https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers">React + Rails</a></li>
 </ul>
 
 <h2>Design</h2>
