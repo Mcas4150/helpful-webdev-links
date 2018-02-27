@@ -12,7 +12,7 @@
   <li><a href="https://github.com/grab/front-end-guide">Grab's Front-end Guide</a></li>
   <li><a href="https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers">React + Rails</a></li>
   <li><a href="https://github.com/markerikson/react-redux-links">React Redux Links</a></li>
- 
+  <li><a href="https://www.robinwieruch.de/tips-to-learn-react-redux/">React Redux tips</a></li>
 </ul>
 
 <h2>Design</h2>
