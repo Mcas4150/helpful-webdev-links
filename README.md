@@ -29,5 +29,6 @@
 <h2>NPM</h2>
 <ul>
   <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
+  <li><a href="http://loopback.io/">Loopback - Express.js framework</a></li>
 </ul>
 
