@@ -10,13 +10,20 @@
   <li><a href="https://daveceddia.com/create-react-app-express-backend/">create-react-app with Express Backend</a></li>
   <li><a href="https://reacttraining.com/react-router/web/guides/philosophy">React Router</a></li>
   <li><a href="https://github.com/grab/front-end-guide">Grab's Front-end Guide</a></li>
-  <li><a href="https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers">React + Rails</a></li>
-  <li><a href="https://github.com/markerikson/react-redux-links">React Redux Links</a></li>
-  <li><a href="https://www.robinwieruch.de/tips-to-learn-react-redux/">React Redux tips</a></li>
-  <li><a href="https://reactpatterns.com/">React Patterns</a></li>
-  <li><a href="https://github.com/airbnb/javascript/tree/master/react">JSX Style Guide</a></li>
+
 </ul>
 
+<h2>React.js</h2>
+  <ul>
+    <li><a href="https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers">React + Rails</a></li>
+    <li><a href="https://github.com/markerikson/react-redux-links">React Redux Links</a></li>
+    <li><a href="https://www.robinwieruch.de/tips-to-learn-react-redux/">React Redux tips</a></li>
+    <li><a href="https://reactpatterns.com/">React Patterns</a></li>
+    <li><a href="https://github.com/airbnb/javascript/tree/master/react">JSX Style Guide</a></li>
+    <li><a href="https://daveceddia.com/create-react-app-express-backend/">create-react-app with Express Backend</a></li>
+    <li><a href="https://reacttraining.com/react-router/web/guides/philosophy">React Router</a></li>
+  </ul>
+  
 <h2>Design</h2>
 <ul>
   <li><a href="https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/">Flat UI</a></li>
