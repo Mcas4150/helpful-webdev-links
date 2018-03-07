@@ -27,8 +27,11 @@
 </ul>
 
 <h2>NPM</h2>
-<ul>
-  <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
-  <li><a href="http://loopback.io/">Loopback - Express.js framework</a></li>
-</ul>
-
+  <ul>
+    <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
+    <li><a href="http://loopback.io/">Loopback - Express.js framework</a></li>
+  </ul>
+<h2>APIs</h2>
+  <ul>
+    <li><a href="https://randomuser.me/">Random User Generator</a></li> 
+  </ul>
