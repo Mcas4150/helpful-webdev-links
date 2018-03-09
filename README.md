@@ -1,7 +1,7 @@
 # helpful-webdev-links
 <img src="https://vignette.wikia.nocookie.net/smurfsfanon/images/c/c6/Handy_Running_Hero_Stories.jpg/revision/latest?cb=20130427215453"/>
 
-<h2>Javascript</h2>
+<h2 style="border-bottom: 1px solid lightgrey">Javascript</h2>
 <ul>
   <li><a href="https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1">A study plan to cure javascript fatigue</a></li>
   <li><a href="https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4">Typescript+React with create-react-app</a></li>
@@ -13,7 +13,7 @@
 
 </ul>
 
-<h2>React.js</h2>
+<h2 style="border-bottom: 1px solid lightgrey">React.js</h2>
   <ul>
     <li><a href="https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers">React + Rails</a></li>
     <li><a href="https://github.com/markerikson/react-redux-links">React Redux Links</a></li>
@@ -24,7 +24,7 @@
     <li><a href="https://reacttraining.com/react-router/web/guides/philosophy">React Router</a></li>
   </ul>
   
-<h2>Design</h2>
+<h2 style="border-bottom: 1px solid lightgrey">Design</h2>
 <ul>
   <li><a href="https://tinyurl.com/m6bywj4">Creating UX with Motion</a></li>
   <li><a href="https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/">Flat UI</a></li>
@@ -34,18 +34,20 @@
   <li><a href="http://michalsnik.github.io/aos/">Aos examples</a></li>
   <li><a href="https://www.invisionapp.com/blog/use-microinteractions-improve-ux-design/">Micro-interactions</a></li>
   <li><a href="https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9">Design Cheatsheet</a></li>
+  <li><a href="https://fonts.google.com/featured/Superfamilies">Google Fonts - Superfamilies</a></li>
+  
 </ul>
 
-<h2>NPM</h2>
+<h2 style="border-bottom: 1px solid lightgrey">NPM</h2>
   <ul>
     <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
     <li><a href="http://loopback.io/">Loopback - Express.js framework</a></li>
   </ul>
-<h2>APIs</h2>
+<h2 style="border-bottom: 1px solid lightgrey">Data</h2>
   <ul>
     <li><a href="https://randomuser.me/">Random User Generator</a></li> 
   </ul>
-<h2>Optimization</h2>
+<h2 style="border-bottom: 1px solid lightgrey">Optimization</h2>
   <ul>
     <li><a href="https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72">Website Optimization</a></li>
   </ul>
