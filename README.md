@@ -45,3 +45,7 @@
   <ul>
     <li><a href="https://randomuser.me/">Random User Generator</a></li> 
   </ul>
+<h2>Optimization</h2>
+  <ul>
+    <li><a href="https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72">Website Optimization</a></li>
+  </ul>
