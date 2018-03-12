@@ -12,7 +12,7 @@
 
 <h2 style="border-bottom: 1px solid lightgrey">React.js</h2>
   <ul>
-    <li><a href="https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4">React + Rails</a></li>
+    <li><a href="https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4">Top 45 React Articles from 2017</a></li>
     <li><a href="https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers">React + Rails</a></li>
     <li><a href="https://github.com/markerikson/react-redux-links">React Redux Links</a></li>
     <li><a href="https://www.robinwieruch.de/tips-to-learn-react-redux/">React Redux tips</a></li>
