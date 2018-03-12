@@ -55,4 +55,5 @@
 <h2 style="border-bottom: 1px solid lightgrey">Interview</h2>
   <ul>
     <li><a href="https://github.com/Pau1fitz/react-interview">React interview questions</a></li>
+    <li><a href="https://gist.github.com/gaearon/7d0df4b2119af0560eec08ac427f2ea6">React quiz answers</a></li>
   </ul>
