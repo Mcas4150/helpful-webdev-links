@@ -50,3 +50,9 @@
   <ul>
     <li><a href="https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72">Website Optimization</a></li>
   </ul>
+  
+  
+<h2 style="border-bottom: 1px solid lightgrey">Interview</h2>
+  <ul>
+    <li><a href="https://github.com/Pau1fitz/react-interview">React interview questions</a></li>
+  </ul>
