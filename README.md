@@ -20,6 +20,9 @@
     <li><a href="https://github.com/airbnb/javascript/tree/master/react">JSX Style Guide</a></li>
     <li><a href="https://daveceddia.com/create-react-app-express-backend/">create-react-app with Express Backend</a></li>
     <li><a href="https://reacttraining.com/react-router/web/guides/philosophy">React Router</a></li>
+   <li><a href=" https://reactjs.org/docs/hello-world.html">React Docs</a></li>
+  
+ 
   </ul>
   
 <h2 style="border-bottom: 1px solid lightgrey">Design</h2>
