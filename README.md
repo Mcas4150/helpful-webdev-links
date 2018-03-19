@@ -67,4 +67,6 @@
     <li><a href="https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb">creating a simple restful web app with node express and mongodb</a></li>
    <li><a href="https://developer.okta.com/blog/2018/01/11/two-approaches-to-setting-up-a-mern-stack-app">two approaches for setting up MERN app</a></li>
   <li><a href="https://github.com/Hashnode/mern-starter">MERN starter</a></li>
+  <li><a href="https://docs.mongodb.com/manual/tutorial/write-scripts-for-the-mongo-shell/">Mongo Script commands</a></li>
+  
   </ul>
