@@ -65,6 +65,6 @@
   <ul>
     <li><a href="https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack">MongoDB Backend with Node, Express, and React</a></li>
     <li><a href="https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb">creating a simple restful web app with node express and mongodb</a></li>
-   <li><a href="https://developer.okta.com/blog/2018/01/11/two-approaches-to-setting-up-a-mern-stack-app">two approaches for setting up mern app</a></li>
-  
+   <li><a href="https://developer.okta.com/blog/2018/01/11/two-approaches-to-setting-up-a-mern-stack-app">two approaches for setting up MERN app</a></li>
+  <li><a href="https://github.com/Hashnode/mern-starter">MERN starter</a></li>
   </ul>
