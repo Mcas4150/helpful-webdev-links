@@ -45,11 +45,13 @@
     <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
     <li><a href="http://loopback.io/">Loopback - Express.js framework</a></li>
   </ul>
-<h2 style="border-bottom: 1px solid lightgrey">Data</h2>
+<hr>Data</hr>
   <ul>
     <li><a href="https://randomuser.me/">Random User Generator</a></li> 
+    <li><a href="https://jsonplaceholder.typicode.com/">JSON Placeholder</a></li> 
+  
   </ul>
-<h2 style="border-bottom: 1px solid lightgrey">Optimization</h2>
+<hr>Optimization</hr>
   <ul>
     <li><a href="https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72">Website Optimization</a></li>
   </ul>
