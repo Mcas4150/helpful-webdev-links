@@ -37,7 +37,8 @@
   <li><a href="https://medium.freecodecamp.org/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8">Micro-interactions guide</a></li>
   <li><a href="https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9">Design Cheatsheet</a></li>
   <li><a href="https://fonts.google.com/featured/Superfamilies">Google Fonts - Superfamilies</a></li>
-  
+  <li><a href="https://css-tricks.com/strategies-keeping-css-specificity-low/">Css specificity</a></li>
+ 
 </ul>
 
 <h2 style="border-bottom: 1px solid lightgrey">NPM</h2>
