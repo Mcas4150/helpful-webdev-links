@@ -21,8 +21,9 @@
     <li><a href="https://daveceddia.com/create-react-app-express-backend/">create-react-app with Express Backend</a></li>
     <li><a href="https://reacttraining.com/react-router/web/guides/philosophy">React Router</a></li>
    <li><a href=" https://reactjs.org/docs/hello-world.html">React Docs</a></li>
+   <li><a href=" https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f">React, Redux, Thunk</a></li>
   
- 
+
   </ul>
   
 <h2 style="border-bottom: 1px solid lightgrey">Design</h2>
@@ -46,13 +47,13 @@
     <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
     <li><a href="http://loopback.io/">Loopback - Express.js framework</a></li>
   </ul>
-<hr>Data</hr>
+<h2 style="border-bottom: 1px solid lightgrey">Data</h2>
   <ul>
     <li><a href="https://randomuser.me/">Random User Generator</a></li> 
     <li><a href="https://jsonplaceholder.typicode.com/">JSON Placeholder</a></li> 
   
   </ul>
-<hr>Optimization</hr>
+<h2 style="border-bottom: 1px solid lightgrey">Optimization</h2>
   <ul>
     <li><a href="https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72">Website Optimization</a></li>
   </ul>
