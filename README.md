@@ -46,6 +46,9 @@
   <ul>
     <li><a href="https://www.npmjs.com/package/radium">Radium - Powerful Inline CSS</a></li>
     <li><a href="http://loopback.io/">Loopback - Express.js framework</a></li>
+  <li><a href="https://www.npmjs.com/package/immutable">Immutable</a></li>
+  <li><a href="https://www.npmjs.com/package/redux-saga">Redux-saga</a></li>
+  <li><a href="https://www.npmjs.com/package/prop-types">Prop-types</a></li>
   </ul>
 <h2 style="border-bottom: 1px solid lightgrey">Data</h2>
   <ul>
