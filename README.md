@@ -49,6 +49,8 @@
   <li><a href="https://www.npmjs.com/package/immutable">Immutable</a></li>
   <li><a href="https://www.npmjs.com/package/redux-saga">Redux-saga</a></li>
   <li><a href="https://www.npmjs.com/package/prop-types">Prop-types</a></li>
+  <li><a href="https://www.npmjs.com/package/classnames">Classnames</a></li>
+  
   </ul>
 <h2 style="border-bottom: 1px solid lightgrey">Data</h2>
   <ul>
