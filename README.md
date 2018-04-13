@@ -20,8 +20,8 @@
     <li><a href="https://github.com/airbnb/javascript/tree/master/react">JSX Style Guide</a></li>
     <li><a href="https://daveceddia.com/create-react-app-express-backend/">create-react-app with Express Backend</a></li>
     <li><a href="https://reacttraining.com/react-router/web/guides/philosophy">React Router</a></li>
-   <li><a href=" https://reactjs.org/docs/hello-world.html">React Docs</a></li>
-   <li><a href=" https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f">React, Redux, Thunk</a></li>
+   <li><a href="https://reactjs.org/docs/hello-world.html">React Docs</a></li>
+   <li><a href="https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f">React, Redux, Thunk</a></li>
   
 
   </ul>
@@ -70,6 +70,8 @@
     <li><a href="https://gist.github.com/gaearon/7d0df4b2119af0560eec08ac427f2ea6">React quiz answers</a></li>
     <li><a href="https://github.com/timarney/react-faq/blob/master/src/pages/interview-questions.md">More</a></li>
   </ul>
+
+ 
 <h2 style="border-bottom: 1px solid lightgrey">Backend</h2>
   <ul>
     <li><a href="https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack">MongoDB Backend with Node, Express, and React</a></li>
@@ -77,5 +79,7 @@
    <li><a href="https://developer.okta.com/blog/2018/01/11/two-approaches-to-setting-up-a-mern-stack-app">two approaches for setting up MERN app</a></li>
   <li><a href="https://github.com/Hashnode/mern-starter">MERN starter</a></li>
   <li><a href="https://docs.mongodb.com/manual/tutorial/write-scripts-for-the-mongo-shell/">Mongo Script commands</a></li>
+   <li><a href="https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b">React + GraphQL</a></li>
+   <li><a href="https://dev-blog.apollodata.com/react-graphql-tutorial-part-2-server-99d0528c7928">React + GraphQL server</a></li>
   
   </ul>
