@@ -81,5 +81,5 @@
   <li><a href="https://docs.mongodb.com/manual/tutorial/write-scripts-for-the-mongo-shell/">Mongo Script commands</a></li>
    <li><a href="https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b">React + GraphQL</a></li>
    <li><a href="https://dev-blog.apollodata.com/react-graphql-tutorial-part-2-server-99d0528c7928">React + GraphQL server</a></li>
-  
+   <li><a href="https://blog.graph.cool/graphql-server-basics-the-schema-ac5e2950214e">React + GraphQL server</a></li>
   </ul>
