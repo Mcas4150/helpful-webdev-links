@@ -40,6 +40,8 @@
   <li><a href="https://fonts.google.com/featured/Superfamilies">Google Fonts - Superfamilies</a></li>
   <li><a href="https://css-tricks.com/strategies-keeping-css-specificity-low/">Css specificity</a></li>
   <li><a href="https://design.google/library/expressing-brand-material/">Material Design - Expressing Brand</a></li>
+  <li><a href="https://material.io/resizer/">Material Design - Responsive Resizer</a></li>
+  
  
 </ul>
 
