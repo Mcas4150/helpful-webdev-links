@@ -39,6 +39,7 @@
   <li><a href="https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9">Design Cheatsheet</a></li>
   <li><a href="https://fonts.google.com/featured/Superfamilies">Google Fonts - Superfamilies</a></li>
   <li><a href="https://css-tricks.com/strategies-keeping-css-specificity-low/">Css specificity</a></li>
+  <li><a href="https://design.google/library/expressing-brand-material/">Material Design - Expressing Brand</a></li>
  
 </ul>
 
